@@ -11,7 +11,7 @@ title:            Data Tutorial
 tagline:          ''
 description:      ''
 url:              http://datatutorial.com
-baseurl:          '/hyde//'
+baseurl:          '/'
 
 author:
   name:           'Tan Pham'
