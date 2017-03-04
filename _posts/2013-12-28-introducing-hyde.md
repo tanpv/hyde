@@ -1,10 +1,10 @@
-# Best Development Course List
-* [Best Python Courses Ever](#Best-Python-Development-Course-Ever)
-* [Best Web Courses Ever](#Best-Web-Development-Course-Ever)
-* [Best Unity Courses Ever](#Best-Unity-Development-Course-Ever)
+# Development Course List
+* [Python Courses Ever](#Python-Development-Course-Ever)
+* [Web Courses Ever](#Web-Development-Course-Ever)
+* [Unity Courses Ever](#Unity-Development-Course-Ever)
 
 
-Best Python Development Course Ever
+## Development Course Ever
 
 
 * [30 Days of Python | Unlock your Python Potential](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2F30-days-of-python%2F%3Fpmtag%3DUDEMARCH)
@@ -22,7 +22,7 @@ Best Python Development Course Ever
 
 
 
-Best Web Development Course Ever
+## Web Development Course Ever
 
 
 * [Angular 2 - The Complete Guide](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F%3Fpmtag%3DUDEMARCH)
@@ -38,7 +38,7 @@ Best Web Development Course Ever
 
 
 
-Best Unity Development Course Ever
+## Best Unity Development Course Ever
 
 
 * [Learn to Code by Making Games - The Complete Unity Developer](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funitycourse%3Fpmtag%3DUDEMARCH)
