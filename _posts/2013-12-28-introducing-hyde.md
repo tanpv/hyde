@@ -1,8 +1,6 @@
-# Table of Contents
 1. [Best Python Development Course Ever](#Best Python Development Course Ever)
 2. [Best Web Development Course Ever](#Best Web Development Course Ever)
 3. [Best Unity Development Course Ever](#Best Unity Development Course Ever)
-
 
 
 ## Best Python Development Course Ever
