@@ -4,7 +4,7 @@
 * [Unity Courses Ever](#Unity-Development-Course-Ever)
 
 
-## Development Course Ever
+## Development Courses
 
 
 * [30 Days of Python | Unlock your Python Potential](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2F30-days-of-python%2F%3Fpmtag%3DUDEMARCH)
@@ -22,7 +22,7 @@
 
 
 
-## Web Development Course Ever
+## Web Development Courses
 
 
 * [Angular 2 - The Complete Guide](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F%3Fpmtag%3DUDEMARCH)
@@ -38,7 +38,7 @@
 
 
 
-## Best Unity Development Course Ever
+## Best Unity Development Courses
 
 
 * [Learn to Code by Making Games - The Complete Unity Developer](https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funitycourse%3Fpmtag%3DUDEMARCH)
