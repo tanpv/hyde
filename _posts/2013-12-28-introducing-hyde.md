@@ -16,7 +16,7 @@
 * [Javascript](#javascript)
 * [Python, Data Analysis, Machine Learning](#python, data analysis, machine learning)
 * [Android, Game and App Development](#android, game and app development)
-* [SQL, Database](#sql,-database)
+* [SQL, Database](#sql-database)
 
 
 ## UNITY, C#, GAME DEVELOPMENT
