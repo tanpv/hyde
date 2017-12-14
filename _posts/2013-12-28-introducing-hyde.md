@@ -10,12 +10,12 @@
 
 ## Courses List
 
-* [Unity, C#, Game Development](#unity, c#, game development)
-* [iOS, Swift, Game Development](#ios, swift, game development)
-* [Web Development](#web development)
+* [Unity, C#, Game Development](#unity-c-game-development)
+* [iOS, Swift, Game Development](#ios-swift-game-development)
+* [Web Development](#web-development)
 * [Javascript](#javascript)
-* [Python, Data Analysis, Machine Learning](#python, data analysis, machine learning)
-* [Android, Game and App Development](#android, game and app development)
+* [Python, Data Analysis, Machine Learning](#python-data-analysis-machine-learning)
+* [Android, Game and App Development](#android-game-and-app-development)
 * [SQL, Database](#sql-database)
 
 
