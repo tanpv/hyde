@@ -19,7 +19,7 @@
 * [SQL, Database](#sql, database)
 
 
-##UNITY, C#, GAME DEVELOPMENT
+## UNITY, C#, GAME DEVELOPMENT
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funitycourse%3Fpmtag%3DUDEMARCH" target="_blank">Learn to Code by Making Games - Complete C# Unity Developer</a>
@@ -29,7 +29,7 @@
 
 
 
-##IOS, SWIFT, GAME DEVELOPMENT
+## IOS, SWIFT, GAME DEVELOPMENT
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdevslopes-ios10%2F%3Fpmtag%3DUDEMARCH" target="_blank">iOS 10 & Swift 3: From Beginner to Paid Professional</a>
@@ -40,7 +40,7 @@
 
 
 
-##WEB DEVELOPMENT
+## WEB DEVELOPMENT
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-developer-course-2%2F%3Fpmtag%3DUDEMARCH" target="_blank">The Complete Web Developer Course 2.0</a>
@@ -55,7 +55,7 @@
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F%3Fpmtag%3DUDEMARCH" target="_blank">Build Responsive Real World Websites with HTML5 and CSS3</a>
 
 
-##Javascript
+## Javascript
 
 * <a href="https://click.linksynergy.com/link?id=mEo*LYazi/o&offerid=323058.364426&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F" target="_blank">JavaScript: Understanding the Weird Parts</a>
 * <a href="https://click.linksynergy.com/deeplink?id=mEo*LYazi/o&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-nodejs%2F" target="_blank">Learn and Understand NodeJS</a>
@@ -65,7 +65,7 @@
 
 
 
-##PYTHON, DATA ANALYSIS, MACHINE LEARNING
+## PYTHON, DATA ANALYSIS, MACHINE LEARNING
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F%3Fpmtag%3DUDEMARCH" target="_blank">Complete Python Bootcamp: Go from zero to hero in Python</a>
@@ -83,7 +83,7 @@
 
 
 
-##ANDROID, GAME AND APP DEVELOPMENT
+## ANDROID, GAME AND APP DEVELOPMENT
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fandroidcourse%2F%3Fpmtag%3DUDEMARCH" target="_blank">The Complete Android Developer Course: Beginner To Advanced!</a>
@@ -94,7 +94,7 @@
 
 
 
-##SQL, DATABASE
+## SQL, DATABASE
 
 
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F%3Fpmtag%3DUDEMARCH" target="_blank">The Complete SQL Bootcamp</a>
