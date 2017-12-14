@@ -13,14 +13,13 @@
 * [Unity, C#, Game Development](#unity-c-game-development)
 * [iOS, Swift, Game Development](#ios-swift-game-development)
 * [Web Development](#web-development)
-* [JAVASCRIPT](#javascript)
+* [Javascript](#javascript)
 * [Python, Data Analysis, Machine Learning](#python-data-analysis-machine-learning)
 * [Android, Game and App Development](#android-game-and-app-development)
 * [SQL, Database](#sql-database)
-* [SQL, Database](#sql-database)
-* [JAVA](#java)
-* [DOCKER](#docker)
-* [AWS](#aws)
+* [Java](#java)
+* [Docker](#docker)
+* [Aws](#aws)
 
 
 ## UNITY, C#, GAME DEVELOPMENT
