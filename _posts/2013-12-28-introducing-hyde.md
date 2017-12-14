@@ -13,6 +13,7 @@
 * [Unity, C#, Game Development](#unity, c#, game development)
 * [iOS, Swift, Game Development](#ios, swift, game development)
 * [Web Development](#web development)
+* [Javascript](#javascript)
 * [Python, Data Analysis, Machine Learning](#python, data analysis, machine learning)
 * [Android, Game and App Development](#android, game and app development)
 * [SQL, Database](#sql, database)
@@ -53,6 +54,17 @@
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F%3Fpmtag%3DUDEMARCH" target="_blank">Angular 2 - The Complete Guide</a>
 * <a href="https://click.linksynergy.com/fs-bin/click?id=mEo*LYazi/o&subid=&offerid=323058.1&type=10&tmpid=14537&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F%3Fpmtag%3DUDEMARCH" target="_blank">Build Responsive Real World Websites with HTML5 and CSS3</a>
 
+
+##Javascript
+
+* <a href="https://click.linksynergy.com/link?id=mEo*LYazi/o&offerid=323058.364426&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F" target="_blank">JavaScript: Understanding the Weird Parts</a>
+* <a href="https://click.linksynergy.com/deeplink?id=mEo*LYazi/o&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-nodejs%2F" target="_blank">Learn and Understand NodeJS</a>
+* <a href="https://click.linksynergy.com/deeplink?id=mEo*LYazi/o&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-angularjs%2F" target="_blank">Learn and Understand AngularJS</a>
+* <a href="https://click.linksynergy.com/deeplink?id=mEo*LYazi/o&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-javascript-course%2F" target="_blank">The Complete JavaScript Course: Build a Real-World Project</a>
+* <a href="https://click.linksynergy.com/deeplink?id=mEo*LYazi/o&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fvuejs-2-the-complete-guide%2F" target="_blank">Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)</a>
+
+
+* <a href="" target="_blank"></a>
 
 
 ##PYTHON, DATA ANALYSIS, MACHINE LEARNING
